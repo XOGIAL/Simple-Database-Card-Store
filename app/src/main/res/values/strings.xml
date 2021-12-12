@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TM</string>
+    <string name="login_page">Login Page</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="phone_numb">Phone Number</string>
+    <string name="terms_cond">I agree terms and condition</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="dob">Date Of Birth</string>
+    <string name="transaction_history">Transaction history:</string>
+    <string name="delete">Delete</string>
+    <string name="home">Home</string>
+    <string name="store">Store</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="no_transaction">There is no transaction</string>
+    <string name="available_products">Available Products:</string>
+    <string name="buy_product">Buy Product</string>
+    <string name="top_up">Top up</string>
+    <string name="rp_25">Rp.250.000</string>
+    <string name="rp_50">Rp.500.000</string>
+    <string name="rp_100">Rp.1.000.000</string>
+</resources>

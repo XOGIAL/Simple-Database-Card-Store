@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/home"
+        android:id="@+id/menu_home"
+        />
+
+    <item
+        android:title="@string/store"
+        android:id="@+id/menu_store"
+        />
+
+    <item
+        android:title="@string/profile"
+        android:id="@+id/menu_profile"
+        />
+
+    <item
+        android:title="@string/logout"
+        android:id="@+id/menu_logout"
+        />
+
+</menu>
